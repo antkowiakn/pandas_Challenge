@@ -1,5 +1,5 @@
 # Pandas Challenge  
-In this projcet I applied some of what I have learned in Pandas and completed on project based on Heros of Pymoli.  
+In this projcet I applied what I have learned in Pandas and completed on project based on Heros of Pymoli.  
 The analysis covers the following
 ## Player Count  
 This adds the overall player count.  
